@@ -1,0 +1,7 @@
+{
+  "vars" :
+  [
+    { "api_name": "api_name_0", "parameters_with_type" : "paras_w_t_0", "parameters" : "paras_0", "description" : "desc_0", "author" : "author_0", "version" : "ver_0", "date" : "2020-08-22", "copyright" : "sun-flat-yamada" }
+  , { "api_name": "api_name_1", "parameters_with_type" : "paras_w_t_1", "parameters" : "paras_1", "description" : "desc_1", "author" : "author_0", "version" : "ver_0", "date" : "2020-08-22", "copyright" : "sun-flat-yamada" }
+  ]
+}
